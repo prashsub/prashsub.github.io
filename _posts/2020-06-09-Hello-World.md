@@ -1,5 +1,4 @@
 ---
-layout: posts
 title:  "Hello World Again"
 date:   2020-05-27 02:31:36 -0500
 author_profile: true
