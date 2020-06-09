@@ -1,9 +1,11 @@
 main:
   - title: "About Me"
-    url: /docs/quick-start-guide/
+    url: /
   - title: "Projects"
-    url: /year-archive/
+    url: /portfolio/
   - title: "Code"
-    url: /categories/
+    url: https://github.com/prashsub
+  - title: "Blog"
+    url: /pages/blog/
   - title: "CV"
-    url: /tags/
+    url: /pages/

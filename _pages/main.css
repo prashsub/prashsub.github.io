@@ -1,0 +1,91 @@
+#page-wrap { width: 800px; margin: 40px auto 60px; }
+h2 { font-size: 18px; margin: 6px 0 6px 0; position: relative; }
+h2 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 16px; color: #999; font-weight: normal; }
+h3 { font-size: 18px; margin: 6px 0 6px 0; position: relative; font-weight: normal}
+h3 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 16px; color: #999; font-weight: normal; }
+dt { font-weight: bold; font-size: 20px; padding: 15px 0 15px 0; width: 150px; text-align: left; height: 15px;  }
+
+/*End of Basic Styling*/
+
+/*
+  ========================================
+  Custom styles
+  ========================================
+*/
+
+body {
+  background: #FFFFFF;
+  color: #303030;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.logo {
+  float: left;
+  font-size: 30px;
+  letter-spacing: .5px;
+  padding: 10px 0 0px 0;
+
+}
+
+.tagline {
+  margin: 0px 0 0px 0;
+  text-align: right;
+}
+.primary-nav {
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: .5px;
+  text-transform: uppercase;
+  margin: 0px 0 0px 0;
+}
+
+.nav {
+  text-align: right;
+}
+.nav li {
+  display: inline-block;
+  margin: 0 10px;
+  vertical-align: top;
+}
+.nav li:last-child {
+  margin-right: 0;
+}
+
+.primary-header a,
+.primary-footer a {
+  color: #303030;
+}
+.primary-header a:hover,
+.primary-footer a:hover {
+  color: #648880;
+}
+
+a {
+  color: #648880;
+  text-decoration: none;
+}
+a:hover {
+  color: #a9b2b9;
+}
+
+header {border-bottom: 2px solid #648880;}
+footer {border-top: 2px solid #648880;}
+
+.email { color: #999; text-decoration: none;  text-align: right; position: absolute; margin: 50px 000px 000px 600px}
+.footernav {
+  text-align: center;
+  border-bottom: 2px solid #648880;
+}
+
+.footernav li {
+  display: inline-block;
+  margin: 0px 60px;
+  vertical-align: top;
+}
+
+.footernotes a{font-weight: bold;
+}
+
+.certifications a{font-weight: bold}
+
+.Visitor {font-weight: bold; text-align: center; }
