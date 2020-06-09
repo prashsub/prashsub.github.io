@@ -1,7 +1,6 @@
 ---
-layout: posts
 title:  "My Attempt at the Cloud Resume Challenge"
-date:   2020-06-10 02:31:36 -0500
+date:   2020-06-08 02:31:36 -0500
 author_profile: true
 read_time: true
 comments: true

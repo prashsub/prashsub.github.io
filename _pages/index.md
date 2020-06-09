@@ -7,4 +7,6 @@ author_profile: true
 permalink: /     
 ---
 
-- I am an engineer with a background in Mechanical Engineering and Oil and Gas Operations.
+I am an engineer with a background in Mechanical Engineering and Oil and Gas Operations.
+
+<h2>Highlights</h2>
