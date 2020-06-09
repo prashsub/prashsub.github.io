@@ -11,9 +11,8 @@ related: true
 
 ## What I built
 
-{%user forrestbrazeal%} had recently posted a challenge on twitter, that if you succeeded in, would help in breaking into the cloud computing world.
+Forrest Brazeal had recently posted a challenge on twitter, that if you succeeded in, would help in breaking into the cloud computing world.
 
-{% twitter 1254822417203113986%}
 
 Initially, I thought it would be a straightforward challenge, but as I started reading it in detail, I noticed that he had touched upon all sorts of fundamental aspects of cloud computing within the challenge. Coincidentally, I had just recently completed my AWS Solutions Architect certification, and thought this would be a good challenge, to apply my new learnings.
 
