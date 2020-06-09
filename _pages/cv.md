@@ -23,7 +23,7 @@ permalink: /pages/
 
 ### University of Pune Pune, India
 -----------------------------
-#### B.E. in Mechanical EngineeringAug 2002 - May 2006
+#### B.E. in Mechanical Engineering Aug 2002 - May 2006
 
 -   Awarded: “Best Graduating Student of the Year” from the Department of Mechanical Engineering
 -   First Class w/ Distinction: Top 2% of the class

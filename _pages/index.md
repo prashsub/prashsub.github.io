@@ -6,7 +6,5 @@ layout: home
 author_profile: true
 permalink: /     
 ---
-# Hello World
-------------------------------------------
 
-- I am an engineer
+- I am an engineer with a background in Mechanical Engineering and Oil and Gas Operations.
