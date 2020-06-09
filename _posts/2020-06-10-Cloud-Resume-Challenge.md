@@ -33,14 +33,7 @@ Foundational Technology
 ## Demo
 [prashsub.com](https://prashsub.com)
 
-## Link to Code
-
-[Note]: # (Our markdown editor supports pretty embeds. If you're sharing a GitHub repo, try this syntax: `{% github link_to_your_repo %}`)
-`{% github https://github.com/prashsub/My_First_Neural_Network%}`
-
 ## How I built it 
-
-[Note]: # (For example, what's the stack? did you run into issues or discover something new along the way? etc!)
 
 As I have learnt in my journey in computer science, that all complex things are nothing but bits of simple things that are meticulously assembled together. Thus, I took an approach of breaking down this problem into modules of work for myself as follows:
 
