@@ -9,8 +9,6 @@ tags:
   - valuation
 ---
 
-# Accounting for Value
-
 Dr. Stephen Penman has a book that I read last year, called Accounting for Valuation.
 
 This book talks about how to value a company using their balance sheets, and income statements.

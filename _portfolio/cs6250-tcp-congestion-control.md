@@ -8,7 +8,6 @@ tags:
   - networking
 ---
 
-# TCP Congestion Control Algorithms
 Project 3: TCP CUBIC and Congestion Control.
 The overall goal of this project is to study the dynamics of TCP in home networks, specifically congestion control algorithms and buffer occupancy. This project is structured around an interactive experiment utilizing Mininet.
 

@@ -10,8 +10,6 @@ tags:
   - security
 ---
 
-# Buffer Overflow
-
 The goals of this project were as follows: 
 - Understanding how stack and heap memory are used
 - Understanding the concepts of buffer overflow
