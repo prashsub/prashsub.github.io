@@ -8,22 +8,22 @@ classes: wide
 permalink: /pages/     
 ---
 ## Education  
-### Georgia Institute of Technology Atlanta, GA
+### Georgia Institute of Technology     Atlanta, GA
 ------------------------------------------
-#### M.S. in Computer Science – GPA 4.0/4.0 Aug 2017 - Jul 2020
+#### M.S. in Computer Science – GPA 4.0/4.0     Aug 2017 - Jul 2020
 
 -   Specializing in Interactive Intelligence
 -   Notable courses include: Artificial Intelligence (AI), Knowledge Based AI, AI for Robotics, AI - Ethics and Society, Machine Learning for Trading
 
-### University of Florida Gainesville, FL
+### University of Florida    Gainesville, FL
 ------------------------------------
-#### M.S. in Mechanical Engineering – GPA 3.6/4.0 Aug 2007 - Jul 2008
+#### M.S. in Mechanical Engineering – GPA 3.6/4.0   Aug 2007 - Jul 2008
 
 -   Minor in Electrical and Computer Engineering
 
-### University of Pune Pune, India
+### University of Pune      Pune, India
 -----------------------------
-#### B.E. in Mechanical Engineering Aug 2002 - May 2006
+#### B.E. in Mechanical Engineering     Aug 2002 - May 2006
 
 -   Awarded: “Best Graduating Student of the Year” from the Department of Mechanical Engineering
 -   First Class w/ Distinction: Top 2% of the class
@@ -31,7 +31,7 @@ permalink: /pages/
 ## Experience  
 ### Schlumberger Technology Corp.  Houston, USA; Macae, Brazil; Luanda, Angola
 ------------------------------------------------------------------------
-#### Global Competency Manager - OneSubsea May 2019 - Jul 2020
+#### Global Competency Manager - OneSubsea  May 2019 - Jul 2020
 
 - Defined, developed, and deployed an end to end competency management system for the OneSubsea product line – catering to a population of more than 500 field service employees and 40 managers.
 
@@ -50,7 +50,7 @@ permalink: /pages/
 
 - Coached various employees on development of training content and assessments effectively.
 
-#### SAP Field Deployment Co-ordinator Oct 2018 - Apr 2019
+#### SAP Field Deployment Co-ordinator      Oct 2018 - Apr 2019
 
 -   Lead deployment of SAP S/4 Hana, the largest simultaneous deployment of SAP in the history of SAP, for the OneSubsea product line within Schlumberger.
 -   Served as the business representative within the scrum team to ensure key functionalities are functional and aligned with business priorities.
@@ -58,28 +58,28 @@ permalink: /pages/
 -   Conducted hands-on training with end-users on location as part of User Acceptance Testing (UAT) at field locations.
 -   In addition, assigned and managed completion of various web-based and classroom trainings across the SLSS populationto ensure greater understanding of SAP rollout before go-live
 
-#### Senior Mechanical Engineer - New Product Development May 2018 – Sept 2018
+#### Senior Mechanical Engineer - New Product Development   May 2018 – Sept 2018
 
 -   Lead design engineer on next generation valve system, with debris tolerance and extreme pressure ratings.
 -   This was a short assignment with a clear task cut-out, diagnose problems with an initial prototype of the valve, and get it qualified for operations by putting it through the stringent API 17G standards.
 -   Re-designed the guts of the valve based on actual test results and iterated over multiple FEAs, as well as Rigid Body Dynamic analysis in Ansys.
 -   New design led to subsequent successful qualification of the valve, which was a critical piece of the overall next generation valve system being delivered to clients.
 
-#### Segment Technical Engineer – Operations Systems May 2017 - Apr 2018
+#### Segment Technical Engineer – Operations Systems    May 2017 - Apr 2018
 
 -   Created and Deployed the Operations System consisting of Standard Work, Activity Workflow, Assessment Questions and Checklists for a definitive guide on running operations offshore efficiently and without failure.
 -   Developed in Unity and demonstrated Standard Work prototype on Augmented Reality (Microsoft Hololens) to display capability of moving beyond tablet computers, for Standard Work execution in offshore environments (one of the first ones to develop this capability within Schlumberger).
 -   Authored 118 pieces of original content, which now serves as the backbone of standard operating procedures, for a large share of subsea operations.
 -   Managed the entire project, from authoring content to getting feedback, and subsequently publishing it, and deploying it with field locations globally to enable adoption.
 
-#### Senior Mechanical Engineer - New Product Development Apr 2016 – May 2017
+#### Senior Mechanical Engineer - New Product Development    Apr 2016 – May 2017
 
 -   Defined product requirements, identified initial concepts, created the theoretical measurement model and validated results generated via Simulink for a next generation subsea instrumentation module.
 -   Authored sub-system specification and coordinated production of prototypes at OEM facilities.
 -   Defined and performed testing of next generation subsea valves in accordance with appropriate API standards
 -   Lead Mechanical Engineer on Next Generation Landing String Instrumentation Module as well as Debris Tolerant Subsea Valve systems.
 
-#### Project Engineer – Macae, Brazil Sept 2014 - Mar 2016
+#### Project Engineer – Macae, Brazil   Sept 2014 - Mar 2016
 
 -   Responsible for deployment of new subsea technology for Petrobras in Brazil
 -   Awarded: “President’s Award–Silver” as part of the team executing firm’s largest subsea project in South America.
@@ -87,7 +87,7 @@ permalink: /pages/
 -   Led team of 30 individuals from diverse backgrounds, for successful mobilization of offshore operations
 -   Conducted training sessions as well as coached personnel to the new technology
 
-#### Product Sustaining Design Engineer – Houston, USA Jan 2012 - Aug 2014
+#### Product Sustaining Design Engineer – Houston, USA   Jan 2012 - Aug 2014
 
 -   Provide product support to manufacture subsea well control solutions; Responsible for 33 different assets
 -   Co-facilitating 11-person team to implement strategies for 10x increase in reliability per CEO’s 2020 vision
@@ -95,12 +95,12 @@ permalink: /pages/
 -   technicians, metallurgists and suppliers, enabling on-time delivery of project critical assets worth \$1.3M
 -   Executed a plan for reducing product offerings from 84 to 33, while saving nearly \$600K worth of inventory
 
-#### Field Sustaining Design Engineer – Houston, USA Oct 2011 - Dec 2012
+#### Field Sustaining Design Engineer – Houston, USA     Oct 2011 - Dec 2012
 
 -   Led 8-person cross-functional investigation teams across various locations like Mozambique, India, Brazil etc. to resolve 9 failure investigations worth approximately \$15M
 -   Designed & launched 9 equipment upgrades and 6 global technical alerts to prevent product failures
 
-#### Subsea Field Engineer – Luanda, Angola Sep 2009 - Aug 2011
+#### Subsea Field Engineer – Luanda, Angola  Sep 2009 - Aug 2011
 
 -   Led 3-person team to manage the deployment of well control equipment for TOTAL’s subsea operations
 -   Conducted 8 subsea operations as a crew member ensuring safe flow of oil to TOTAL and ENI operated rigs
@@ -110,14 +110,14 @@ permalink: /pages/
 ### The Walt Disney Company Orlando, Florida
 ---------------------------------------
 
-#### Engineering Intern – Animal Kingdom Ride & Show May 2008 - Aug 2008
+#### Engineering Intern – Animal Kingdom Ride & Show    May 2008 - Aug 2008
 
 -   Diagnosed mechanical issues in operating equipment and determined baseline performance indices for reliability
 
 ### AB SKF Mumbai, India
 -------------------
 
-#### Graduate Engineer - Energy SectorJul 2006 - Jul 2007
+#### Graduate Engineer - Energy Sector  Jul 2006 - Jul 2007
 
 -   Evaluated and recommended solutions to monitor wind turbine conditions, improving uptime by roughly 12%
 -   Led a 3-member team to implement a pilot program at a refinery, improving equipment reliability by 5.3%

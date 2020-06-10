@@ -8,7 +8,7 @@ permalink: /
 ---
 
 I am an engineer with 11 years of background in Engineering, Operations, Digital Transformation and Change Management within the Oil and Gas industry.
-I have a Masters in Computer Science from Georgia Tech, as well as a Masters in Mechanical Engineering from University of Florida.
+I have a Masters in Computer Science from Georgia Tech, as well as a Masters in Mechanical Engineering from University of Florida. 
 Below is a quick highlights of my work experience over the years.
 
 <h2>Career Summary</h2>
