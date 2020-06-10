@@ -1,6 +1,4 @@
 ---
-title: "Accounting for Valuation"
-excerpt: "Notebook to model valuation of a company based on it's Accounting fundamentals such as Balance Sheet and Income Statement, based on the book by Stephen Penman"
+title: "Search Project"
+excerpt: "Implement several graph search algorithms with the goal of solving bi-directional search. CS 6601: Artificial Intelligence - Assignment 2 - Search, PriorityQueue, Breadth First Search, Uniform Cost Search, A* Search, Bi-directional Search"
 ---
-
-# Accounting for Valuation

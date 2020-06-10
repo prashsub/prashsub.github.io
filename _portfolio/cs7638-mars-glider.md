@@ -1,6 +1,6 @@
 ---
-title: "Accounting for Valuation"
-excerpt: "Notebook to model valuation of a company based on it's Accounting fundamentals such as Balance Sheet and Income Statement, based on the book by Stephen Penman"
+title: "Mars Glider Project"
+excerpt: "CS7638 Artificial Intelligence for Robotics project to implement a Particle filter used to localize a robotic glider that does not have access to terrestrial based GPS satellites"
 ---
 
 # Accounting for Valuation
