@@ -1,6 +1,4 @@
 ---
-title: "Accounting for Valuation"
-excerpt: "Notebook to model valuation of a company based on it's Accounting fundamentals such as Balance Sheet and Income Statement, based on the book by Stephen Penman"
+title: "Isolation Game"
+excerpt: "Assignment 1 - Isolation Game - CS 6601: Artificial Intelligence"
 ---
-
-# Accounting for Valuation

@@ -1,6 +1,6 @@
 ---
-title: "Accounting for Valuation"
-excerpt: "Notebook to model valuation of a company based on it's Accounting fundamentals such as Balance Sheet and Income Statement, based on the book by Stephen Penman"
+title: "Probabilistic Modeling"
+excerpt: "CS6601 Assignment 3 - OMSCS. This assignment focused on Bayes Net"
 ---
 
-# Accounting for Valuation
+Using probabilistic models known as Bayesian networks to efficiently calculate the answer to probability questions concerning discrete random variables.
