@@ -1,6 +1,10 @@
 ---
-title: "Accounting for Valuation"
-excerpt: "Notebook to model valuation of a company based on it's Accounting fundamentals such as Balance Sheet and Income Statement, based on the book by Stephen Penman"
+title: "Knowledge-Based Artificial Intelligence: Cognitive Systems"
+excerpt: "Various Projects performed as part of OMSCS CS7637: Knowledge-Based Artificial Intelligence: Cognitive Systems"
+categories:
+  - CS7637 Knowledge-Based Artificial Intelligence - Cognitive Systems
+tags:
+  - artificial intelligence
 ---
 
-# Accounting for Valuation
+# Knowledge-Based Artificial Intelligence: Cognitive Systems
