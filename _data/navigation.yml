@@ -6,4 +6,4 @@ main:
   - title: "Blog"
     url: /pages/blog/
   - title: "CV"
-    url: /pages/
+    url: /_pages/cv.html
