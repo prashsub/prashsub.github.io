@@ -93,7 +93,7 @@ author:
   links:
     - label: "Contact Me"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "/pages/contact/"
+      url: "/pages/contact/"
     - label: "Download Resume"
       icon: "fas fa-fw fa-link"
       # url: "https://prashsub.com"
