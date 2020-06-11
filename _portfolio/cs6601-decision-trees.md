@@ -1,4 +1,4 @@
 ---
 title: "Decision Trees"
-excerpt: "Notebook to model valuation of a company based on it's Accounting fundamentals such as Balance Sheet and Income Statement, based on the book by Stephen Penman"
+excerpt: "Decision Trees Artificial Intelligence"
 ---

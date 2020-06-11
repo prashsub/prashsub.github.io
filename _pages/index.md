@@ -26,4 +26,4 @@ Below are quick highlights of my work experience over the years.
 - [2006] Graduated with my Bachelors in Mechanical Engineering!
 
 <h2>Skills</h2>
-Python, AWS, AI, Data Analytics, Change Management, PowerBI, Ansys, Digital Transformation, Mechanical Design, Subsea Operations, Operations Management
+Python, AWS, AI, Data Analytics, Change Management, PowerBI, Ansys, Digital Transformation, Mechanical Design, Oil & Gas Operations, Operations Management, Getting things done, Root Cause Failure Analysis, Reliability Centered Maintenance
