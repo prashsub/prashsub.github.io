@@ -1,6 +1,8 @@
 ---
-title: "Accounting for Valuation"
-excerpt: "Notebook to model valuation of a company based on it's Accounting fundamentals such as Balance Sheet and Income Statement, based on the book by Stephen Penman"
+title: "Human Computer Interaction"
+excerpt: "CS6750 Human Computer Interaction Class"
 ---
 
-# Accounting for Valuation
+This class was focused on various aspects of interaction between humans and computing platforms.
+
+Various projects conducted as part of this course, including proposed re-design of existing Course Registration mechanism of Georgia Tech.
