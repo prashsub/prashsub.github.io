@@ -25,4 +25,4 @@ This notebook is a step in the direction of making the valuation process automat
 
 The code base for this can be found at the following repository.
 
-[Link to Repository] (https://github.com/prashsub/AccountingForValuation/blob/master/Valuation.ipynb)
+[Accounting For Valuation Notebook](https://github.com/prashsub/AccountingForValuation/blob/master/Valuation.ipynb)
