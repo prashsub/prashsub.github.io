@@ -23,3 +23,6 @@ I used to do this method of valuation manually in excel, but it took a long time
 
 This notebook is a step in the direction of making the valuation process automatized, based on the principles outlined in Dr. Penman's book.
 
+The code base for this can be found at the following repository.
+
+[Link to Repository] (https://github.com/prashsub/AccountingForValuation/blob/master/Valuation.ipynb)
