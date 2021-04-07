@@ -12,11 +12,11 @@ This course was very interesting in the sense that it took a very different take
 
 The course addressed the topic of a lot of structured AI, and rule based AI systems, that were being explored before Deep learning became big. I am highlighting one of the interesting assignments from this course below based on Raven's Progressive Matrices (RPMs).
 
-Introduction:
+### Introduction:
 
 The Raven's Progressive Matrices (RPM) is a collection of standardized tests, consisting of analogy problems, in which a set of geometric figures is presented with one entry missing and the correct entry must be selected from a set of given choices. Not only have these tests been found to be one of the single best measures of intelligence, but also they require little instruction for administering and scoring.
 
-Approach:
+### Approach:
 
 I used a visual approach to the problem based on the Production Systems method. My thinking was that, a visual approach would allow me to generalize for most problems.
 
