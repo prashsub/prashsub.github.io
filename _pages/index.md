@@ -7,12 +7,13 @@ author_profile: true
 permalink: /     
 ---
 
-I am an engineer with 11 years of background in Engineering, Operations, Digital Transformation and Change Management within the Oil and Gas industry.
+I am an engineer with 12 years of background in Engineering, Operations, Digital Transformation and Change Management within the Oil and Gas industry.
 I have a Masters in Computer Science from Georgia Tech, as well as a Masters in Mechanical Engineering from University of Florida. 
 Below are quick highlights of my work experience over the years.
 
 <h2>Career Summary</h2>
 
+- [2021] Started as Senior Consultant at Slalom!
 - [2020] Graduated with my Master's in Computer Science!
 - [2019] Global Competency Manager for the OneSubsea Business Line - Implementing Digital Transformation to Competency Management.
 - [2018] SAP Deployment Lead for the OneSubsea Business Line - largest simultaneous deployment of SAP in the history of SAP.
