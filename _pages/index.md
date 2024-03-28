@@ -7,7 +7,7 @@ author_profile: true
 permalink: /     
 ---
 
-I am an engineer with 12 years of background in Engineering, Operations, Digital Transformation and Change Management within the Oil and Gas industry.
+I am an engineer with 14 years of background in Data Analytics, Engineering, Operations, Digital Transformation and Change Management.
 I have a Masters in Computer Science from Georgia Tech, as well as a Masters in Mechanical Engineering from University of Florida. 
 Below are quick highlights of my work experience over the years.
 
